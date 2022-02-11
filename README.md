@@ -17,4 +17,3 @@ I trained all the models using a colab free gpu, so I could not make very comple
 
 ## Notes:
 - I wrongly supposed that the score metric was the mean squared error, and after a while I found out it was the mean average error, that is why all the tentative models have mse like the loss function, and then it changes to mae.
-- When exporting submmision predictions to csv, I forgoted that the prediction column had to be 'pressure' instead of 'predictions', so I changed it manually from the csv files.
