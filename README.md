@@ -1,4 +1,4 @@
-# Google-Brain---Ventilator-Pressure-Prediction-Keggle-proyect
+# Google-Brain---Ventilator-Pressure-Prediction-Kaggle-proyect
 
 This is the notebook I worked on to submit my first kaggle competition: Google Brain - Ventilator Pressure Prediction.
 
